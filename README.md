@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Haider Ali, I’m passionate about empowering entrepreneurs and growing businesses to reach their fullest potential online with over a decade of hands-on experience in web development, AI-automation, and AI-agents 
+I'm Haider Ali, I’m passionate about empowering entrepreneurs and growing businesses to reach their fullest potential online with over a decade of hands-on experience in web development, AI-automation, and AI-agents 
 
 **I’ve helped clients:**
 - Launch high-performance websites that not only look great but convert visitors into loyal customers
