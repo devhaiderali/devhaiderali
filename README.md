@@ -19,7 +19,7 @@ I'm Haider Ali, empowering entrepreneurs and growing businesses to reach their f
 - C
 - C++
 - CSS3
-- HTML3
+- HTML5
 - JavaScript
 - Python
 - Type Script
